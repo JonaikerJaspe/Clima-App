@@ -13,12 +13,11 @@ node app.js
  Seleccione una opción
 =======================
 
-? ¿ Que desea hacer ? 2.  Historial de Busquedas
-1. Canadá
-2. Caracas, Distrito Capital, Venezuela
+? ¿ Que desea hacer ? (Use arrow keys)
+> 1.  Buscar Ciudad
+  2.  Historial de Busquedas
+  0.  Salir
 
-
-? Presione ENTER para Continuar
 
 ```
 
